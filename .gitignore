@@ -1,0 +1,12 @@
+#Build ignores
+target
+/project/project
+
+#IDEA ignores
+.idea
+*.iml
+
+#Eclipse ignores
+.project
+.classpath
+.settings
